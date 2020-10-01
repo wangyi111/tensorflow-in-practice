@@ -16,6 +16,6 @@ Dig into convolutional neural network for computer vision tasks, strategies to i
 
 Dig into natural language processing, from preparing sentence vectors to applying NLP models like RNN, CNN, GRU and LSTM.
 
-**Course 4: [Sequences, Time series and Prediction](./04_sequences)**
+**Course 4: [Sequences, Time series and Prediction](./04_sequences_time_series_and_prediction/)**
 
 Dig into time series models, from generating simulated data to applying RNN, CNN and LSTM models to real world data.
