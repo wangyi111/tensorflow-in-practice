@@ -4,7 +4,7 @@ Codes for ["tensorflow-in-practice"](https://www.coursera.org/specializations/te
 
 ## Contents
 
-**Course 1: Introduction to Tensorflow**
+**Course 1: [Introduction to Tensorflow](./01_introuction_to_tensorflow/)**
 
 Basic tutorial and example of tensorflow, from line regression to image classification.
 
